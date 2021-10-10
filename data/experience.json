@@ -1,0 +1,29 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "July 2016 - January 2017",
+			"company" : "CornerJob",
+			"website": "https://www.cornerjob.com",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"timeperiod" : "December 2017 - March 2019",
+			"company" : "CornerJob",
+			"website": "https://www.cornerjob.com",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"timeperiod" : "April 2019 - March 2021",
+			"company" : "wefox",
+			"website": "https://www.wefox.com",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"timeperiod" : "March 2021 - Present",
+			"company" : "Thoughtworks",
+			"website": "https://www.thoughtworks.com",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+	]
+}

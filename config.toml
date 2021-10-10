@@ -1,0 +1,4 @@
+baseURL = 'http://jinglin.dev/'
+languageCode = 'en-us'
+title = 'Jing Lin'
+theme = 'hugo-uilite'
