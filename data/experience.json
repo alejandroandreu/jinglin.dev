@@ -5,31 +5,31 @@
 			"timeperiod" : "March 2021 - Present",
 			"company" : "Thoughtworks",
 			"website": "https://www.thoughtworks.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : ""
 		},
 		{
 			"timeperiod" : "April 2019 - March 2021",
 			"company" : "wefox",
 			"website": "https://www.wefox.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : ""
 		},
 		{
 			"timeperiod" : "Mar 2017 - Mar 2019",
 			"company" : "CornerJob",
 			"website": "https://www.cornerjob.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : ""
 		},
 		{
 			"timeperiod" : "July 2016 - January 2017",
 			"company" : "SMADEX",
 			"website": "https://www.smadex.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : ""
 		},
 		{
 			"timeperiod" : "February 2015 - June 2016",
 			"company" : "Netcentric",
 			"website": "https://www.netcentric.biz",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : ""
 		}
 	]
 }
