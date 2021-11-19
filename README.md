@@ -4,10 +4,6 @@
 
 ``` sh
 git clone git@github.com:Jing19/jinglin.dev.git
-cd jinglin.dev/
-mkdir themes
-cd themes/
-git clone https://github.com/uicardioHQ/hugo-uilite.git
 ```
 
 ## 👀 Local Webserver
